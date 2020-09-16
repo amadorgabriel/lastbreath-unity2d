@@ -66,7 +66,7 @@ public class IARobotController : MonoBehaviour {
 
     private void _HandleShooting () {
 
-        if (1 == 2) {
+        if (Input.GetMouseButtonDown (0)) {
             myAimAnimator.SetTrigger ("Shoot");
 
             float espaçametoBullet = (endAngle - startAngle) / numProjeteis;
