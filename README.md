@@ -2,9 +2,12 @@
   <img src="https://i.pinimg.com/originals/8e/91/8c/8e918cb4a7076b6c70c0596f86687f93.png" width="200px"/>
 </p>
              
-<h1 align="center"> Ultimo Suspiro </p>.
+<h1 align="center"> Ultimo Suspiro </h1>
 <p align="center"> Game 2D desenvolvido através da 13º proposta para o desenvolvimento sustentável da ONU  </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e7/be/6f/e7be6f8db89e268ffd68e83e72b7ccd3.png" />  
+</p>
 
 &nbsp;  
 ## 📜 Acesse Também
@@ -35,7 +38,11 @@
 
 - :tada: **Tema**: Realizamos um brainstorm das 17 propostas pela [UNICEF](https://nacoesunidas.org/pos2015/agenda2030/) e selecionamos o tema **"Ação Contra Mudança Global do Clima"**. 
 
-![https://images-ext-2.discordapp.net/external/dtAXvclgNQwGy7ULr1pyRxyyNhPD3DNWpVcDgRgCZtc/https/media.discordapp.net/attachments/742206906768031815/742207174452838410/Front_Walk_1.gif?width=375&height=375](https://images-ext-2.discordapp.net/external/dtAXvclgNQwGy7ULr1pyRxyyNhPD3DNWpVcDgRgCZtc/https/media.discordapp.net/attachments/742206906768031815/742207174452838410/Front_Walk_1.gif?width=375&height=375)
+
+
+<p align="center">
+  <img src="https://images-ext-2.discordapp.net/external/dtAXvclgNQwGy7ULr1pyRxyyNhPD3DNWpVcDgRgCZtc/https/media.discordapp.net/attachments/742206906768031815/742207174452838410/Front_Walk_1.gif?width=375&height=375" />  
+</p>
 
 
 &nbsp;  
