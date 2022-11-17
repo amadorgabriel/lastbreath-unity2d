@@ -47,7 +47,7 @@
 
 &nbsp;  
 ## 📜 Estamos trabalhando duro!
-**Obs:** Você pode testar nosso jogo através desse [link](https://drive.google.com/drive/folders/1O-sXteg7ZK1NJd3yL3D4E8eeYvZa0wO-), encontre a versão mais atualizada e não deixe de curtir. Caso tenha alguma sujestão ou contribuição para o código fonte não deixe de faze-la.
+**Obs:** Você pode testar nosso jogo através desse [link](https://drive.google.com/drive/folders/1O-sXteg7ZK1NJd3yL3D4E8eeYvZa0wO-), encontre a versão mais atualizada e não deixe de curtir. Caso tenha alguma sugestão ou contribuição para o código fonte não deixe de fazê-la.
 
 
 
